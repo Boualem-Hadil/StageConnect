@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div className="w-full md:w-6/12 lg:w-3/12 mb-6">
             <div className="flex items-center space-x-2 mb-4">
               <GraduationCap size={24} className="text-internship-purple" />
-              <h2 className="text-lg font-bold bg-clip-text text-transparent internship-gradient">StageConnect</h2>
+              <h2 className="text-lg font-bold text-black">StageConnect</h2>
             </div>
             <p className="text-sm text-gray-600 mb-4">
               StageConnect est votre plateforme de recherche de stages professionnels en France. Nous connectons étudiants et entreprises pour des expériences enrichissantes.

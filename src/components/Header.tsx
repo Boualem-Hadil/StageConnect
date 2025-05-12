@@ -10,7 +10,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center space-x-2">
           <GraduationCap size={28} className="text-internship-brown" />
-          <h1 className="text-xl font-bold bg-clip-text text-transparent internship-gradient">StageConnect</h1>
+          <h1 className="text-lg font-bold text-black">StageConnect</h1>
         </div>
         <nav className="hidden md:flex items-center space-x-6">
           <Link to="/" className="text-sm font-medium hover:text-internship-brown transition-colors">Accueil</Link>
